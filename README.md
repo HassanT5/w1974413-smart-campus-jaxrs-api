@@ -1,0 +1,1 @@
+# w1974413-smart-campus-jaxrs-api
