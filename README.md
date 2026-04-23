@@ -11,19 +11,15 @@ The main resources in the API are:
 - **Sensor**
 - **SensorReading**
 
-The base path for the API is:
-
-`http://localhost:8080/api/v1`
-
 ## Build and Run
 
 1. Open the project in NetBeans.
 2. Allow Maven to download all required dependencies.
-3. Run the `Main` class.
+3. Run the Main class.
 4. The server should start locally.
 5. The API will be available at:
 
-`http://localhost:8080/api/v1`
+http://localhost:8080/api/v1
 
 ## Sample curl Commands
 1. Discovery Endpoint - curl -X GET http://localhost:8080/api/v1
