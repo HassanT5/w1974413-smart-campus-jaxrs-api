@@ -1,0 +1,12 @@
+com\smartcampus\exception\RoomNotEmptyException.class
+com\smartcampus\model\ErrorResponse.class
+com\smartcampus\store\DataStore.class
+com\smartcampus\config\SmartCampusApplication.class
+com\smartcampus\model\Sensor.class
+com\mycompany\w1974413smartcampusapi\W1974413SmartCampusAPI.class
+com\smartcampus\Main.class
+com\smartcampus\mapper\RoomNotEmptyExceptionMapper.class
+com\smartcampus\model\Room.class
+com\smartcampus\resource\DiscoveryResource.class
+com\smartcampus\resource\RoomResource.class
+com\smartcampus\model\SensorReading.class
